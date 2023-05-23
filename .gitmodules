@@ -1,0 +1,3 @@
+[submodule "semantic-search"]
+	path = semantic-search
+	url = https://github.com/pinecone-io/semantic-search-example
