@@ -1,3 +1,6 @@
 [submodule "semantic-search"]
 	path = semantic-search
 	url = https://github.com/pinecone-io/semantic-search-example
+[submodule "semantic-search"]
+	path = langchain-retrieval-agent
+	url = https://github.com/pinecone-io/langchain-retrieval-agent-example.git
